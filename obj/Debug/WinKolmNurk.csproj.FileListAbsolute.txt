@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.csproj.SuggestedBindingRedirects.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.Properties.Resources.resources
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.Triangle_Work.resources
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\bin\Debug\WinKolmNurk.exe.config
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\bin\Debug\WinKolmNurk.exe
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\bin\Debug\WinKolmNurk.pdb
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.exe
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.pdb
+C:\Users\opilane\source\repos\TARgv23_Vlad\WinKolmNurk\obj\Debug\WinKolmNurk.Form2.resources
